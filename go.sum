@@ -1,2 +1,4 @@
 github.com/go-ruby-rack/rack v0.0.0-20260916101131-d86b924dd331 h1:r+OCRLteRUid3hfcrC5Tah3yUITFF9hrWygvIZoily4=
 github.com/go-ruby-rack/rack v0.0.0-20260916101131-d86b924dd331/go.mod h1:rKZ3vD81gJq61NvZ3XX9cr6AxtIV3+lFZKG7lPKV3PM=
+github.com/go-ruby-rack/rack v0.0.0-20261010113634-603a0ca4834a h1:5IY5MzcGDfZqiM0gNeDtS8pbvfx6Z9y6qbho1e2o1s0=
+github.com/go-ruby-rack/rack v0.0.0-20261010113634-603a0ca4834a/go.mod h1:BTATFHt91MwyS6G1dLOO3XDhmmWi5b235q3SVFOh9rM=
